@@ -22,5 +22,6 @@
         <module>demo-06-mybatis-04-convert</module>
         <module>demo-06-mybatis-05-type_handler</module>
         <module>demo-06-mybatis-06-convert</module>
+        <module>demo-06-mybatis-07-generator</module>
     </modules>
 </project>
